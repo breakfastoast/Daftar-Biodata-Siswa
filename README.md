@@ -7,8 +7,3 @@ Daftar biodata siswa Dicoding Academy
 - Angkatan 2020
 - Angkatan 2021
 
-<ol>
-  <li>angkatan 2019</li>
-  <li>angkatan 2020</li>
-  <li>angaktan 2021</li>
-</ol>
